@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><app-delta>
+<change_input changetype="fg-update" contenttype="partialapp" contenturi="C:/chordiant/fnd650/_dev.rad/workspace/ChordiantEAR"/>
+<files>
+<file operation="update" uri="src.AB.jar/ru/alfabank/ccrm/services/impl/CustomerServiceImpl$1.class"/>
+<file operation="update" uri="src.AB.jar/ru/alfabank/ccrm/services/impl/CustomerServiceImpl.class"/>
+<file operation="update" uri="src.AB.jar/ru/alfabank/ccrm/services/impl/CustomerServiceImpl$QueryNameArray.class"/>
+</files>
+</app-delta>

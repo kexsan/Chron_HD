@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<appdeployment:Deployment xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:appdeployment="http://www.ibm.com/websphere/appserver/schemas/5.0/appdeployment.xmi" xmi:id="Deployment_1284123181593">
+  <deployedObject xmi:type="appdeployment:ApplicationDeployment" xmi:id="ApplicationDeployment_1284123181593" startingWeight="10" binariesURL="C:\chordiant\fnd650\_dev.rad\workspace\ChordiantEAR" useMetadataFromBinaries="true" enableDistribution="false" createMBeansForResources="true" reloadEnabled="false" zeroBinaryCopy="true" appContextIDForSecurity="href:ethNode01Cell/ChordiantEAR" filePermission=".*\.dll=755#.*\.so=755#.*\.a=755#.*\.sl=755" allowDispatchRemoteInclude="false" allowServiceRemoteInclude="false" asyncRequestDispatchType="DISABLED" standaloneModule="false" enableClientModule="false">
+    <targetMappings xmi:id="DeploymentTargetMapping_1623126662764" enable="true" target="ServerTarget_1623126662764"/>
+    <classloader xmi:id="Classloader_1284123181593" mode="PARENT_FIRST"/>
+    <modules xmi:type="appdeployment:EJBModuleDeployment" xmi:id="EJBModuleDeployment_1284123181593" startingWeight="5000" uri="ChordiantEJB.jar">
+      <targetMappings xmi:id="DeploymentTargetMapping_1623126662765" target="ServerTarget_1623126662764"/>
+    </modules>
+    <modules xmi:type="appdeployment:WebModuleDeployment" xmi:id="WebModuleDeployment_1284123181593" startingWeight="10000" uri="Advisor.war" classloaderMode="PARENT_LAST" containsEJBContent="0">
+      <targetMappings xmi:id="DeploymentTargetMapping_1623126662766" target="ServerTarget_1623126662764"/>
+      <classloader xmi:id="Classloader_1623126662765"/>
+    </modules>
+    <properties xmi:id="Property_1623126662766" name="metadata.complete" value="true"/>
+    <properties xmi:id="Property_1625466887741" name="was.loose.config" value="file:/C:/chordiant/fnd650/_dev.rad/workspace/.metadata/.plugins/com.ibm.etools.wrd.websphere.v85/looseconfigurations/WASv8.5_1.8atlocalhost/ChordiantEAR/looseconfig.xmi"/>
+  </deployedObject>
+  <deploymentTargets xmi:type="appdeployment:ServerTarget" xmi:id="ServerTarget_1623126662764" name="server1" nodeName="ethNode01"/>
+</appdeployment:Deployment>

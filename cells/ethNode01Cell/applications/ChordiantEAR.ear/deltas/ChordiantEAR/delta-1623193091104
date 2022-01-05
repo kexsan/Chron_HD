@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><app-delta>
+<change_input changetype="fg-update" contenttype="partialapp" contenturi="C:/chordiant/fnd650/_dev.rad/workspace/ChordiantEAR"/>
+<files>
+<file operation="update" uri="src.AB.jar/ru/alfabank/ccrm/api/nodeprovider/services/codeBusinessEvent/CodeBusinessEventHandler.class"/>
+<file operation="update" uri="src.AB.jar/ru/alfabank/ccrm/services/impl/CcrmBusinessAuditServiceImpl.class"/>
+<file operation="update" uri="src.AB.jar/ru/alfabank/ccrm/services/CcrmBusinessAuditService.class"/>
+</files>
+</app-delta>

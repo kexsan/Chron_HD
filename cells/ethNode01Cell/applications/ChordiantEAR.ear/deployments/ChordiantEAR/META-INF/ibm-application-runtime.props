@@ -1,0 +1,4 @@
+#Created by WebSphere.  Do not modify.
+#Mon Jul 05 09:34:47 MSK 2021
+com.ibm.ws.runtime.components.ChordiantEJB.jar=WebSphere\:specname\=WS_EJBContainer
+com.ibm.ws.runtime.components.Advisor.war=WebSphere\:specname\=WS_WebContainer

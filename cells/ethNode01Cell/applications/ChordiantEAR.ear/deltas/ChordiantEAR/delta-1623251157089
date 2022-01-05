@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><app-delta>
+<change_input changetype="fg-update" contenttype="partialapp" contenturi="C:/chordiant/fnd650/_dev.rad/workspace/ChordiantEAR"/>
+<files>
+<file operation="update" uri="src.AB.jar/ru/alfabank/ccrm/api/nodeprovider/services/codeBusinessEvent/CodeBusinessEventHandler.class"/>
+<file operation="update" uri="src.AB.jar/ru/alfabank/ccrm/api/nodeprovider/services/clientSession/UpdateClientSessionHandler.class"/>
+<file operation="update" uri="src.AB.jar/ru/alfabank/ccrm/services/impl/CcrmBusinessAuditServiceImpl.class"/>
+<file operation="update" uri="src.AB.jar/ru/alfabank/ccrm/bo/CcrmBusinessActHist.class"/>
+<file operation="update" uri="config/chordiant/chordiant_env.properties"/>
+<file operation="update" uri="src.AB.jar/ru/alfabank/ccrm/api/nodeprovider/services/businessActHistory/BusinessActHistoryHandler.class"/>
+<file operation="update" uri="src.AB.jar/ru/alfabank/ccrm/services/CcrmBusinessAuditService.class"/>
+<file operation="update" uri="src.AB.jar/ru/alfabank/ccrm/api/nodeprovider/services/businessActHistory/GetBusinessActHistoryHandler$1.class"/>
+<file operation="update" uri="src.AB.jar/ru/alfabank/ccrm/bo/CcrmBusinessActHist.hbm.xml"/>
+<file operation="update" uri="src.AB.jar/ru/alfabank/ccrm/services/CodeBusinessService.class"/>
+<file operation="update" uri="src.AB.jar/ru/alfabank/ccrm/api/nodeprovider/factories/BusinessActHistoryFactory.class"/>
+<file operation="update" uri="src.AB.jar/ru/alfabank/ccrm/bo/CcrmContact.hbm.xml"/>
+<file operation="update" uri="src.AB.jar/ru/alfabank/ccrm/api/nodeprovider/services/businessActHistory/GetBusinessActHistoryHandler.class"/>
+<file operation="update" uri="src.AB.jar/ru/alfabank/ccrm/api/nodeprovider/services/clientSession/SaveClientSessionHandler.class"/>
+<file operation="update" uri="src.AB.jar/ru/alfabank/ccrm/api/nodeprovider/services/customerAuthorization/SaveAuthStatusHandler.class"/>
+</files>
+</app-delta>

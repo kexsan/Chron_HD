@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><app-delta>
+<change_input changetype="fg-update" contenttype="partialapp" contenturi="C:/chordiant/fnd650/_dev.rad/workspace/ChordiantEAR"/>
+<files>
+<file operation="delete" uri="src.AB.jar/ru/alfabank/ccrm/api/nodeprovider/services/customerAccessChannels/AlfaCheckPrepareHandler.class"/>
+<file operation="update" uri="src.AB.jar/ru/alfabank/ccrm/services/impl/CustomerServiceImpl$1.class"/>
+<file operation="update" uri="src.AB.jar/ru/alfabank/ccrm/services/impl/CustomerServiceImpl.class"/>
+<file operation="update" uri="src.AB.jar/ru/alfabank/ccrm/api/MainServicesServlet.class"/>
+<file operation="update" uri="src.AB.jar/ru/alfabank/ccrm/services/impl/CustomerServiceImpl$QueryNameArray.class"/>
+<file operation="update" uri="src.AB.jar/ru/alfabank/ccrm/api/nodeprovider/services/customerSearch/Search.class"/>
+<file operation="update" uri="src.AB.jar/ru/alfabank/ccrm/api/nodeprovider/dto/HandlerLogger.class"/>
+<file operation="update" uri="src.AB.jar/ru/alfabank/ccrm/api/ExtLoggingInvocationHandler.class"/>
+<file operation="update" uri="src.AB.jar/ru/alfabank/ccrm/app/CcrmAppContext.class"/>
+</files>
+</app-delta>
